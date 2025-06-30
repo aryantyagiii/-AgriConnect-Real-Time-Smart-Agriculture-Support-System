@@ -110,5 +110,15 @@ npm start
 
 📧 Email: aryantyagi761@gmail.com  
 🔗 GitHub: [github.com/aryantyagiii](https://github.com/aryantyagiii)  
-🔗 LinkedIn: [linkedin.com/in/aryantyagiii](https://linkedin.com/in/aryantyagiii)
+🔗 LinkedIn: [linkedin.com/in/aryantyagiii](https://linkedin.com/in/aryantyagiii)  
+
+---
+
+## 📚 References
+
+- 💬 Project write-up, formatting, and documentation guidance powered by [ChatGPT](https://openai.com/chatgpt) by OpenAI  
+- 🌐 Weather Data API: [OpenWeatherMap](https://openweathermap.org/)  
+- 🌍 Earthquake Feed: [USGS API](https://earthquake.usgs.gov/fdsnws/event/1/)  
+- 🔊 Voice services: [gTTS](https://pypi.org/project/gTTS/) and [Twilio](https://www.twilio.com/)  
+- 🔧 Realtime Database: [Firebase](https://firebase.google.com/)  
 
